@@ -5,3 +5,4 @@
 4-listmorefiles - a script that displays current directory contents including hidden files starting with a period using the long format
 5-listfilesdigitonly - a script to display current directry content in long format, with user and group ids displayed numerically and hidden files starting with period.
 6-firstdirectory - a script that creates a directory named my_first_directory in the tmp directory.
+7-movethatfile - a script to move the file betty from tmp to my_first_directory in tmp directory.
