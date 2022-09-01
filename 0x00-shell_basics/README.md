@@ -9,3 +9,5 @@
 8-firstdelete - a script to delete betty in my_first_directory in tmp.
 9-firstdirdeletion - a script to delete the directory my_first_directory in tmp directory.
 10-back - a script that changes the working directory to the previous one.
+11-lists - a script that lists all files even the hidden filesusually beginning with a period in the current directory and the parent of the working directory and the boot directory in long format.
+12-file_type - a script that prints the type of the file named iamafile in the tmp directory.
